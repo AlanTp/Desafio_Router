@@ -1,0 +1,23 @@
+#exemplo_titulo{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+#exemplo_texto{
+    font-size: 15px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#exemplo_link{
+    color: rgb(17, 17, 18);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+#ex_div_doc{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+#ex_image{
+    margin-top: 20px;
+}

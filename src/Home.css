@@ -1,0 +1,38 @@
+
+#home_texto{
+    text-align: center;
+    margin: 20px;;
+}
+#home_botao{
+    color: black;  
+}
+#home_div_botao{
+    margin-top: 70px;
+}
+#Titulo{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 50px;
+}
+#intro{
+    color: rgb(7, 5, 90);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#icones{
+    color: rgb(46, 12, 118);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#div_ex{
+    margin-bottom: 30px;
+    margin-top: 10px;;
+   
+}
+#botoes{
+    color: rgb(46, 12, 118);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#div_ex_body{
+ display: inline;
+ background-color: aliceblue;
+}
+

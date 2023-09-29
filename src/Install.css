@@ -1,0 +1,27 @@
+#install_body{
+    text-align: center;
+}
+#install_titulo{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+#install_ex{
+    margin-top: 40px;
+    margin-bottom: 40px;
+ 
+}#install_span{
+    margin: 15px;
+}
+#install_image{
+margin-top: 25px;
+margin-bottom: 25px;
+}
+#install_botao{
+   margin-left: 30px;
+  
+}
+#install_link{
+    color: black;
+}
